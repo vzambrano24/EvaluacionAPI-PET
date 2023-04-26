@@ -26,4 +26,4 @@
 
 4. Información adicional
 
-Referencia: https://github.com/vzambrano24/pruebat-cnica.git
+Referencia: https://github.com/vzambrano24/EvaluacionAPI-PET.git
